@@ -20,3 +20,16 @@ InstalledDir: /Library/Developer/CommandLineTools/usr/bin
 # 4.执行并打印
 
 ![alt text](image/image-1.png)
+
+# 5. 手动编译cpp
+
+1. g++ start/MyProject.cpp 
+生成a.out文件
+
+2. g++ start/MyProject.cpp -o test_c++
+生成test_c++文件
+
+3. ./test_c++ 
+执行test_c++文件
+
+输出：Hello World
